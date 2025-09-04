@@ -4,9 +4,9 @@
 Deep Reinforcement Learning (DRL) has achieved impressive successes, yet struggles with sample inefficiency, poor generalization, and limited interpretability. Conversely, large language models (LLMs) excel in reasoning, making them promising for general decision-making and planning. This work presents LLM-Zero, a training-free framework to enhance LLMs’ performance in planning tasks. We evaluate LLM-Zero against leading LLM-based and traditional DRL methods, demonstrating its competitive potential without additional training. These findings highlight LLM-Zero as a promising approach to integrate LLMs into planning and
 decision-making tasks.
 
-<center>
-<img width="693" height="334" alt="image" src="https://github.com/user-attachments/assets/b453fdf0-eeee-447c-9fe5-6c38b71472eb" />
-</center>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b453fdf0-eeee-447c-9fe5-6c38b71472eb" alt="image" width="693" height="334">
+</p>
 
 ## Install
 
